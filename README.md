@@ -21,5 +21,5 @@ Carla Yu Gutierrez
 Daria Tuvasheva
 Ivet Clofen
 
-## Liscence
-Open liscence
+## License
+Open license
