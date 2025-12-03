@@ -8,11 +8,11 @@ La nostra aplicació pertany al sector de l’entreteniment, oferint una experi�
 ## Installation
 Use VR headset and open the apk
 
-#Contributing
+## Contributing
 Mix the granade, the fig and the horns to create an amazing cocktail
 You can interact with the environment
 
-#Credits
+## Credits
 Laiga Guinart
 Claudia Polo
 Camila Pineda
@@ -21,5 +21,5 @@ Carla Yu Gutierrez
 Daria Tuvasheva
 Ivet Clofen
 
-#Liscence
+## Liscence
 Open liscence
