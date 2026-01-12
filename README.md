@@ -1,26 +1,64 @@
-# VR project - Mystic Mix
+# 🧿 VR Project – Mystic Mix
 
-"Mystic Mix is a virtual reality video game set in a small, cozy bar where the player takes on the role of a classic Tarot deck. In this mysterious space, the player works as a mystical barista, receiving requests through a crystal ball. By combining certain magical ingredients, they can create powerful drinks capable of shaping the destiny of the customers. 
-Our application belongs to the entertainment sector, offering a relaxing and educational experience about tarot."
-- [Documentació].().
-- [Conceptualització](https://www.canva.com/design/DAG4-kjBjvQ/WuUrrF0YJHIoaWd75v-E8w/edit?utm_content=DAG4-kjBjvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Concept art](https://www.canva.com/design/DAG5mCEb3KQ/cczoZhUj4g8ersMvEWcURQ/edit?utm_content=DAG5mCEb3KQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Mystic Mix** is a virtual reality video game set in a small, cozy bar with a mysterious atmosphere.  
+The player takes on the role of a **classic Tarot deck**, working as a mystical barista who receives drink requests through a crystal ball.
 
-## Installation
-Use VR headset and open the apk
+By combining magical ingredients, the player creates powerful beverages capable of **shaping the destiny of the customers**.  
+The experience is designed to be both **relaxing and educational**, introducing players to the symbolism and meaning of tarot cards.
 
-## Contributing
-Mix the granade, the fig and the horns to create an amazing cocktail
-You can interact with the environment
+---
 
-## Credits
-Laiga Guinart
-Claudia Polo
-Camila Pineda
-Patricia Aragón
-Carla Yu Gutierrez
-Daria Tuvasheva
-Ivet Clofen
+## 🎮 Project Information
 
-## License
-Open license
+- **Genre:** Entertainment / Educational  
+- **Platform:** Virtual Reality  
+- **Experience:** Relaxing, narrative-driven
+
+---
+
+## 📚 Documentation & Resources
+
+- 📄 [Documentation](https://www.canva.com/design/DAG9EExQT2I/0ZtBNP7NgN8El686H-d0sA/edit?utm_content=DAG9EExQT2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🧠 [Conceptualization](https://www.canva.com/design/DAG4-kjBjvQ/WuUrrF0YJHIoaWd75v-E8w/edit?utm_content=DAG4-kjBjvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🎨 [Concept Art](https://www.canva.com/design/DAG5mCEb3KQ/cczoZhUj4g8ersMvEWcURQ/edit?utm_content=DAG5mCEb3KQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## 🛠️ Installation
+
+1. Use a compatible **VR headset**
+2. Install and open the **APK file**
+3. Launch the application
+
+---
+
+## 🍹 Gameplay & Interaction
+
+- Mix **pomegranate**, **fig**, and **horns** to create magical cocktails  
+- Interact with the environment  
+- Fulfill customer requests and influence their destiny
+
+---
+
+## 👥 Contributing
+
+Contributions are welcome.  
+You can help improve gameplay mechanics, interactions, visuals, or narrative elements.
+
+---
+
+## ✨ Credits
+
+- Laiga Guinart  
+- Claudia Polo  
+- Camila Pineda  
+- Patricia Aragón  
+- Carla Yu Gutierrez  
+- Daria Tuvasheva  
+- Ivet Clofen  
+
+---
+
+## 📄 License
+
+Open License
