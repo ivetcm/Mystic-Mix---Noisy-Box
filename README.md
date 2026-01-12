@@ -30,8 +30,9 @@ The experience is designed to be both **relaxing and educational**, introducing 
 ## 🛠️ Installation
 
 1. Use a compatible **VR headset**
-2. Install and open the **APK file**
+2. Install and open the APK file from the Releases named **MysticMix_final.apk**
 3. Launch the application
+4. In case of doubt consult the package from **MysticMix_finalproject**
 
 ---
 
