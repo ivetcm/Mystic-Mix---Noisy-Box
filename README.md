@@ -2,7 +2,7 @@
 
 "Mystic Mix is a virtual reality video game set in a small, cozy bar where the player takes on the role of a classic Tarot deck. In this mysterious space, the player works as a mystical barista, receiving requests through a crystal ball. By combining certain magical ingredients, they can create powerful drinks capable of shaping the destiny of the customers. 
 Our application belongs to the entertainment sector, offering a relaxing and educational experience about tarot."
-- [Documentació].(https://www.canva.com/design/DAG9EExQT2I/0ZtBNP7NgN8El686H-d0sA/edit?utm_content=DAG9EExQT2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- [Documentació].().
 - [Conceptualització](https://www.canva.com/design/DAG4-kjBjvQ/WuUrrF0YJHIoaWd75v-E8w/edit?utm_content=DAG4-kjBjvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Concept art](https://www.canva.com/design/DAG5mCEb3KQ/cczoZhUj4g8ersMvEWcURQ/edit?utm_content=DAG5mCEb3KQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
