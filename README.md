@@ -21,6 +21,8 @@ The experience is designed to be both **relaxing and educational**, introducing 
 - 📄 [Documentation](https://www.canva.com/design/DAG9EExQT2I/0ZtBNP7NgN8El686H-d0sA/edit?utm_content=DAG9EExQT2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🧠 [Conceptualization](https://www.canva.com/design/DAG4-kjBjvQ/WuUrrF0YJHIoaWd75v-E8w/edit?utm_content=DAG4-kjBjvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🎨 [Concept Art](https://www.canva.com/design/DAG5mCEb3KQ/cczoZhUj4g8ersMvEWcURQ/edit?utm_content=DAG5mCEb3KQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📽️ [Project Presentation](https://www.canva.com/design/DAG7goqPJ-A/e9_cRuAVeQvkKbcj0tNemQ/edit?utm_content=DAG7goqPJ-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🎥 [Gameplay Video](https://www.swisstransfer.com/d/c7bff290-7432-4e4b-9a16-1b81fe55652d)
 
 ---
 
