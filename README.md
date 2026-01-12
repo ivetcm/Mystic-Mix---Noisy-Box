@@ -37,7 +37,7 @@ The experience is designed to be both **relaxing and educational**, introducing 
 
 ## 🍹 Gameplay & Interaction
 
-- Mix **pomegranate**, **fig**, and **horns** to create magical cocktails  
+- Mix the ingridients to create magical cocktails  
 - Interact with the environment  
 - Fulfill customer requests and influence their destiny
 
