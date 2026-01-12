@@ -1,6 +1,6 @@
 # 🧿 VR Project – Mystic Mix
 
-**Mystic Mix** is a virtual reality video game set in a small, cozy bar with a mysterious atmosphere.  
+**Mystic Mix** is a virtual reality video game set in a small, cozy room with a mysterious atmosphere.  
 The player takes on the role of a **classic Tarot deck**, working as a mystical barista who receives drink requests through a crystal ball.
 
 By combining magical ingredients, the player creates powerful beverages capable of **shaping the destiny of the customers**.  
@@ -23,6 +23,7 @@ The experience is designed to be both **relaxing and educational**, introducing 
 - 🎨 [Concept Art](https://www.canva.com/design/DAG5mCEb3KQ/cczoZhUj4g8ersMvEWcURQ/edit?utm_content=DAG5mCEb3KQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📽️ [Project Presentation](https://www.canva.com/design/DAG7goqPJ-A/e9_cRuAVeQvkKbcj0tNemQ/edit?utm_content=DAG7goqPJ-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🎥 [Gameplay Video](https://www.swisstransfer.com/d/c7bff290-7432-4e4b-9a16-1b81fe55652d)
+- 📝 [Combination Response Sheet](https://www.canva.com/design/DAG-Pe9DI7Y/OA4qMIrpSgFzI4CZmzAb1g/edit?utm_content=DAG-Pe9DI7Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
